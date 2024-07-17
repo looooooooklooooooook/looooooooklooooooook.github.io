@@ -1,4 +1,4 @@
-dist/data/media/
+dist/data/media/*
 *.map
 server.*
 *.env
